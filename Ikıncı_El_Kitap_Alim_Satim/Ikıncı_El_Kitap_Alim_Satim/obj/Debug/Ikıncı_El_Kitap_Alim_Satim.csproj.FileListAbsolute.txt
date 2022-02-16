@@ -1,0 +1,12 @@
+C:\Users\LENOVO\Desktop\c#\Ikıncı_El_Kitap_Alim_Satim\Ikıncı_El_Kitap_Alim_Satim\bin\Debug\Ikıncı_El_Kitap_Alim_Satim.exe.config
+C:\Users\LENOVO\Desktop\c#\Ikıncı_El_Kitap_Alim_Satim\Ikıncı_El_Kitap_Alim_Satim\bin\Debug\Ikıncı_El_Kitap_Alim_Satim.exe
+C:\Users\LENOVO\Desktop\c#\Ikıncı_El_Kitap_Alim_Satim\Ikıncı_El_Kitap_Alim_Satim\bin\Debug\Ikıncı_El_Kitap_Alim_Satim.pdb
+C:\Users\LENOVO\Desktop\c#\Ikıncı_El_Kitap_Alim_Satim\Ikıncı_El_Kitap_Alim_Satim\obj\Debug\Ikıncı_El_Kitap_Alim_Satim.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\c#\Ikıncı_El_Kitap_Alim_Satim\Ikıncı_El_Kitap_Alim_Satim\obj\Debug\Ikıncı_El_Kitap_Alim_Satim.FormAlici.resources
+C:\Users\LENOVO\Desktop\c#\Ikıncı_El_Kitap_Alim_Satim\Ikıncı_El_Kitap_Alim_Satim\obj\Debug\Ikıncı_El_Kitap_Alim_Satim.FormGiris.resources
+C:\Users\LENOVO\Desktop\c#\Ikıncı_El_Kitap_Alim_Satim\Ikıncı_El_Kitap_Alim_Satim\obj\Debug\Ikıncı_El_Kitap_Alim_Satim.FormSatici.resources
+C:\Users\LENOVO\Desktop\c#\Ikıncı_El_Kitap_Alim_Satim\Ikıncı_El_Kitap_Alim_Satim\obj\Debug\Ikıncı_El_Kitap_Alim_Satim.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\c#\Ikıncı_El_Kitap_Alim_Satim\Ikıncı_El_Kitap_Alim_Satim\obj\Debug\Ikıncı_El_Kitap_Alim_Satim.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\c#\Ikıncı_El_Kitap_Alim_Satim\Ikıncı_El_Kitap_Alim_Satim\obj\Debug\Ikıncı_El_Kitap_Alim_Satim.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\c#\Ikıncı_El_Kitap_Alim_Satim\Ikıncı_El_Kitap_Alim_Satim\obj\Debug\Ikıncı_El_Kitap_Alim_Satim.exe
+C:\Users\LENOVO\Desktop\c#\Ikıncı_El_Kitap_Alim_Satim\Ikıncı_El_Kitap_Alim_Satim\obj\Debug\Ikıncı_El_Kitap_Alim_Satim.pdb
